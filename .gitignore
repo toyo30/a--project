@@ -1,1 +1,7 @@
 .DS_Store
+.idea/
+*.DS_Store
+*.pyc
+__pycache__/
+venv/
+src/static/var/img/*/
